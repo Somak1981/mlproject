@@ -1,5 +1,6 @@
 from setuptools import find_packages, setup
 from typing import List
+import pandas as pd
 
 minus_e_dot = '-e .'
 
